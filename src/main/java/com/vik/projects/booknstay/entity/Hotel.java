@@ -29,7 +29,7 @@ public class Hotel {
     private String[] amenities;
 
     @CreationTimestamp
-    private LocalDateTime createdAt;
+    private LocalDateTime createdAt;    
 
     @UpdateTimestamp
     private LocalDateTime updatedAt;
